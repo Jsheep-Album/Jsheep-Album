@@ -6,7 +6,7 @@
 ### :cyclone: Languages
 -
 
-[![Jsheep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsheep-Album)](https://github.com/anuraghazra/github-readme-stats)
+[![Jsheep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsheep-Album&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### :mailbox_with_mail: Contacts
