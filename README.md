@@ -4,7 +4,7 @@
 - 
 
 ### :cyclone: Languages
-![JAVA](https://img.shields.io/badge/-JAVA
+![JAVA](https://img.shields.io/badge/JAVA)
 
 
 
