@@ -4,7 +4,9 @@
 - 
 
 ### :cyclone: Languages
--![JAVA](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Java&logoColor=white) 
+![JAVA](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Java&logoColor=white)
+https://img.shields.io/github/languages/top/beygee/survive
+
 
 [![Jsheep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsheep-Album&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
