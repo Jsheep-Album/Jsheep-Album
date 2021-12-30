@@ -5,3 +5,7 @@
 - Semi Supervised Learning for Classification, Detection, Segmentation
 - Generative Model
 - Various ideas (If you have any research or project you want to share with me, please contact me!)
+
+
+### :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:megavlaza@gmail.com)](mailto:megavlaza@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jaeyang.kim.1)](https://www.facebook.com/jaeyang.kim.1) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaeyang-k-431821161)](https://www.linkedin.com/in/jaeyang-k-431821161) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jsheep.tistory.com/)](https://jsheep.tistory.com/)
